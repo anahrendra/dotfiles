@@ -1,10 +1,4 @@
 /.github @anahrendra
-.clang-format @anahrendra
-.flake8 @anahrendra
-.gitattributes @anahrendra
-.gitignore @anahrendra
-.isort.cfg @anahrendra
 .pre-commit-config.yaml @anahrendra
-.clang-format.yml @anahrendra
-pyproject.toml @anahrendra
 README.md @anahrendra
+/zsh @anahrendra
