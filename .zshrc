@@ -108,6 +108,3 @@ source ~/dotfiles/zsh/ros.sh
 source ~/dotfiles/zsh/alias.sh
 source ~/dotfiles/zsh/conda.sh
 source ~/dotfiles/zsh/env.sh
-
-
-
